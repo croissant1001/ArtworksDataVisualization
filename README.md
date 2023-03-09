@@ -1,5 +1,5 @@
 # ArtworksDataVisualization
-some interactive Visualization of Artwork Dataset. the outcome html document is also available.
+some interactive Visualization of Artwork Dataset for the KUL Datathon 2023. the outcome html document is also available.
 ### born map
 A zoomable map with timeline to visulize the born of the artists. Also add some correspond hstory events in different color.
 ### correlation graph
